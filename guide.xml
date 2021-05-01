@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CL: Canal 13 Full HD">
+    <display-name lang="es">CL: Canal 13 Full HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL: Canal 13 HD">
+    <display-name lang="es">CL: Canal 13 HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL: CHV FULL HD">
+    <display-name lang="es">CL: CHV FULL HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210430001500 -0400" stop="20210430011500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">T13 Noche</title>
+  </programme>
+  <programme start="20210430011500 -0400" stop="20210430021500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210430021500 -0400" stop="20210430060000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210430060000 -0400" stop="20210430063000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">3x3</title>
+  </programme>
+  <programme start="20210430063000 -0400" stop="20210430080000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210430080000 -0400" stop="20210430130000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210430130000 -0400" stop="20210430144000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210430144000 -0400" stop="20210430144500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210430144500 -0400" stop="20210430160000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210430160000 -0400" stop="20210430174000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210430174000 -0400" stop="20210430201000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210430201000 -0400" stop="20210430210000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">El Sultan</title>
+  </programme>
+  <programme start="20210430210000 -0400" stop="20210430224000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20210430224000 -0400" stop="20210430224500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210430224500 -0400" stop="20210501022000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20210501224500 -0400" stop="20210502022000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20210502022000 -0400" stop="20210502033000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210502033000 -0400" stop="20210502070000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210502070000 -0400" stop="20210502084500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Plato Unico</title>
+  </programme>
+  <programme start="20210502084500 -0400" stop="20210502130000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Sin Despertador</title>
+  </programme>
+  <programme start="20210502130000 -0400" stop="20210502150000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210502150000 -0400" stop="20210502161500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20210502161500 -0400" stop="20210502173000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Cocina sin Fronteras</title>
+  </programme>
+  <programme start="20210502173000 -0400" stop="20210502183500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Plato Unico</title>
+  </programme>
+  <programme start="20210502183500 -0400" stop="20210502194500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Tiempos de barrio</title>
+  </programme>
+  <programme start="20210502194500 -0400" stop="20210502210000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210502210000 -0400" stop="20210502221000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20210502221000 -0400" stop="20210502221500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210502221500 -0400" stop="20210502234500 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210502234500 -0400" stop="20210503005000 -0400" channel="CL: Canal 13 Full HD">
+    <title lang="es">Crónicas de la Patagonia</title>
+  </programme>
+  <programme start="20210430001500 -0400" stop="20210430011500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">T13 Noche</title>
+  </programme>
+  <programme start="20210430011500 -0400" stop="20210430021500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210430021500 -0400" stop="20210430060000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210430060000 -0400" stop="20210430063000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">3x3</title>
+  </programme>
+  <programme start="20210430063000 -0400" stop="20210430080000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210430080000 -0400" stop="20210430130000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210430130000 -0400" stop="20210430144000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210430144000 -0400" stop="20210430144500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210430144500 -0400" stop="20210430160000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210430160000 -0400" stop="20210430174000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210430174000 -0400" stop="20210430201000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210430201000 -0400" stop="20210430210000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">El Sultan</title>
+  </programme>
+  <programme start="20210430210000 -0400" stop="20210430224000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20210430224000 -0400" stop="20210430224500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210430224500 -0400" stop="20210501022000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20210501224500 -0400" stop="20210502022000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20210502022000 -0400" stop="20210502033000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210502033000 -0400" stop="20210502070000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210502070000 -0400" stop="20210502084500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Plato Unico</title>
+  </programme>
+  <programme start="20210502084500 -0400" stop="20210502130000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Sin Despertador</title>
+  </programme>
+  <programme start="20210502130000 -0400" stop="20210502150000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210502150000 -0400" stop="20210502161500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20210502161500 -0400" stop="20210502173000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Cocina sin Fronteras</title>
+  </programme>
+  <programme start="20210502173000 -0400" stop="20210502183500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Plato Unico</title>
+  </programme>
+  <programme start="20210502183500 -0400" stop="20210502194500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Tiempos de barrio</title>
+  </programme>
+  <programme start="20210502194500 -0400" stop="20210502210000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210502210000 -0400" stop="20210502221000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20210502221000 -0400" stop="20210502221500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210502221500 -0400" stop="20210502234500 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210502234500 -0400" stop="20210503005000 -0400" channel="CL: Canal 13 HD">
+    <title lang="es">Crónicas de la Patagonia</title>
+  </programme>
+  <programme start="20210430010000 -0400" stop="20210430013000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
+  <programme start="20210430013000 -0400" stop="20210430063000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210430063000 -0400" stop="20210430080000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210430080000 -0400" stop="20210430130000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210430130000 -0400" stop="20210430153000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210430153000 -0400" stop="20210430170500 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210430170500 -0400" stop="20210430181500 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210430181500 -0400" stop="20210430203000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210430203000 -0400" stop="20210430223000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210430223000 -0400" stop="20210501010000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">PH, podemos hablar</title>
+  </programme>
+  <programme start="20210501010000 -0400" stop="20210501014500 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
+  <programme start="20210501014500 -0400" stop="20210501070000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210501070000 -0400" stop="20210501080000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20210501080000 -0400" stop="20210501083000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Sabingo</title>
+  </programme>
+  <programme start="20210501083000 -0400" stop="20210501130000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210501130000 -0400" stop="20210501150000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210501150000 -0400" stop="20210501180000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Sabingo</title>
+  </programme>
+  <programme start="20210501180000 -0400" stop="20210501203000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210501203000 -0400" stop="20210501220000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210501220000 -0400" stop="20210502010000 -0400" channel="CL: CHV FULL HD">
+    <title lang="es">La divina comida</title>
+  </programme>
+</tv>
